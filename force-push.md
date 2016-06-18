@@ -1,7 +1,7 @@
 # (Force) Push That Branch
 
 ### What is a force push anyway?
-![Obi Wan Wreckin' Droids](http://imgur.com/Pebszrd)
+![Obi Wan Wreckin' Droids](http://imgur.com/Pebszrd.gif)
 
 Yeah - it's basically that. Except to your Git Repo. It's powerful and destructive, but sometimes it's the tool for the job.
 
